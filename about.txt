@@ -1,0 +1,3 @@
+Name : Priyanka Pitta
+Course: Bsc Computer Science
+I learned a lot of things about GitHub like creating repositories, and deploying them.
